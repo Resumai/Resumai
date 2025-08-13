@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hey there 👋
 
+Welcome to my repo.
+It's bit messy here, assume WIP in terms of portfolio.
+
+Cheers.
 <!--
 **Resumai/Resumai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
